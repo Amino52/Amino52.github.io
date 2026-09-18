@@ -209,7 +209,7 @@ params:
             content: J'ai fait un stage a la ligue de l'enseignement de la Haute-Marne, j'avais en projet de créer un nichoir connecté; je devais installer et configurer une caméra sur un nichoir. a coté de ce projet, j'ai programmé des robots (micro:bit, maqueen V2).
           
             
-            - company: "Centre Hospitalier de Chaumont "
+      - company: "Centre Hospitalier de Chaumont "
         companyUrl: "https://www.ch-shm.fr/?page_id=2936"
         jobs:
           - name: "Programme Powershell"
