@@ -140,7 +140,7 @@ params:
     button:
       enable: true
       name: "CV"
-      url: "monCV.pdf"
+      url: "CV.pdf"
       download: true
       newPage: false
     socialLinks:
