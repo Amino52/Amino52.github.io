@@ -207,6 +207,16 @@ params:
             info:
               content: stage Ligue 52
             content: J'ai fait un stage a la ligue de l'enseignement de la Haute-Marne, j'avais en projet de créer un nichoir connecté; je devais installer et configurer une caméra sur un nichoir. a coté de ce projet, j'ai programmé des robots (micro:bit, maqueen V2).
+          
+            
+            - company: "Centre Hospitalier de Chaumont "
+        companyUrl: "https://www.ch-shm.fr/?page_id=2936"
+        jobs:
+          - name: "Programme Powershell"
+            date: " juin 2026"
+            info:
+              content: stage Service Info
+            content: J'ai fait un stage au service informatique du centre hospitalier de Chaumont, j'avais en projet de créer un programme Powershell permettant de créer des comptes locaux en masse, j'ai aussi fais du dépannage, de l'installation de windows 11, du brassage et de l'installation de machines et d'imprimantes 
            
     
   # Education
